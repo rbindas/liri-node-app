@@ -1,0 +1,20 @@
+MOVIE INFO: 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Year the movie came out: 2001
+IMDB Rating: 8.8
+Country where movie was produced: New Zealand, USA
+Language of Movie: English, Sindarin
+Plot of the Movie: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors in the movie: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+Rotten Tomatoes Rating: 91%
+====================================================
+MOVIE INFO: 
+Title: Star Wars: The Last Jedi
+Year the movie came out: 2017
+IMDB Rating: 8.1
+Country where movie was produced: USA
+Language of Movie: English
+Plot of the Movie: Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
+Actors in the movie: Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley
+Rotten Tomatoes Rating: 92%
+====================================================
